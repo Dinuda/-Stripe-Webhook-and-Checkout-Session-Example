@@ -1,4 +1,4 @@
-# Stripe Subscription with Checkout Session and enddate
+# Stripe Subscription with End Date using Checkout Session
 
 This is an example implementation of Stripe's webhook, subscription and checkout session functionality using Node.js and the Stripe API. The purpose of this implementation is to provide a starting point for developers looking to implement these features in their own projects.
 
